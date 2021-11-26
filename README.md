@@ -1,5 +1,7 @@
 # Degen Trash Panda - Mint Scraper
 
+## IMPORTANT install this and make sure that in the command line the commands "solana" and "curl" work https://docs.solana.com/cli/install-solana-cli-tools
+
 Download link: https://drive.google.com/file/d/10nbnvjVwRr6j4h84_TTFgPSfihfGy4wT/view?usp=sharing
 
 This will allow you to see the current mint number + the upcoming rares/mythics. Go and grab something nice! 
