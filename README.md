@@ -1,6 +1,6 @@
 # Degen Trash Panda - Mint Scraper
 
-**IMPORTANT install this and make sure that in the command line the commands "solana" and "curl" work** https://docs.solana.com/cli/install-solana-cli-tools
+**IMPORTANT install this (https://docs.solana.com/cli/install-solana-cli-tools) and make sure that in the command line the commands "solana" and "curl" work**
 
 Download link: https://drive.google.com/file/d/10nbnvjVwRr6j4h84_TTFgPSfihfGy4wT/view?usp=sharing
 
