@@ -1,6 +1,6 @@
 # Degen Trash Panda - Mint Scraper (only works for WINDOWS)
 
-## YOU NEED TO ADD 12,000 TO THE CURRENT MINT NUMBER because the token holder transferred 12k tokens away from the wallet I am counting it from (https://solscan.io/account/CheWJgRCqpEXiEGVdh4HHiQdprtrzrVjgXazuCfCFM1P#splTransfer)
+### YOU NEED TO ADD 12,000 TO THE CURRENT MINT NUMBER because the token holder transferred 12k tokens away from the wallet I am counting it from (https://solscan.io/account/CheWJgRCqpEXiEGVdh4HHiQdprtrzrVjgXazuCfCFM1P#splTransfer)
 
 **IMPORTANT install this (run your command line as administrator, https://docs.solana.com/cli/install-solana-cli-tools) and make sure that in the command line the commands "solana" and "curl" work**
 
