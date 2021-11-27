@@ -9,7 +9,7 @@ Unzip the file and run start.bat. Scrape.java contains the source code.
 
 Windows: run start.bat
 
-Mac/Linux: go into the terminal, move to the directory and enter "java -jar panda_mint_scraper.jar"
+Mac/Linux: go into the terminal, move to the directory and enter "java -jar panda_mint_scraper.jar" (you need Java installed)
 
 __Solana wallet for donations__: 5zPhWGKHAwyZBf1fqxYCWahqwV29XVsMB3RwELYNp3uR
 
